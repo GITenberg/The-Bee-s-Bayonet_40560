@@ -1,0 +1,25 @@
+_repo: The-Bee-s-Bayonet_40560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40560-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Watrous, Edwin Alfred
+    gutenberg_agent_id: '40697'
+    url: http://www.gutenberg.org/2009/agents/40697
+description: ''
+gutenberg_issued: '2012-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+title: "The Bee's Bayonet (a Little Honey and a Little Sting)\r\nCamouflage in Word\
+  \ Painting"
+url: http://www.gutenberg.org/ebooks/40560
